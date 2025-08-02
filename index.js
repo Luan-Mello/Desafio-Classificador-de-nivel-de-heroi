@@ -37,8 +37,3 @@ if (xp < 100) {
 const mensagem = ("o Heroi de nome " + nome + " está no nivel " + nivel );
 
 console.log(mensagem)
-
-
-
-
-
